@@ -1,0 +1,7 @@
+requests
+urllib3
+pymysql
+sqlalchemy
+lxml
+beautifulsoup4
+python-dotenv
